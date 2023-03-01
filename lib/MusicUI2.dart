@@ -2,9 +2,6 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:sliding_clipped_nav_bar/sliding_clipped_nav_bar.dart';
 
-void main() {
-  runApp(MaterialApp(home: MusicUI2()));
-}
 
 class MusicUI2 extends StatefulWidget {
   @override
