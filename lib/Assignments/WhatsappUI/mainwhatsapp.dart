@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../../Calllog.dart';
+import 'Calllog.dart';
 import 'chatpage.dart';
 import 'status.dart';
 
