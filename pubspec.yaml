@@ -45,6 +45,12 @@ dependencies:
   carousel_slider: ^4.2.1
   sliding_clipped_nav_bar: ^3.1.0+4
   sqflite: ^2.2.5
+  provider: ^6.0.5
+  permission_handler: ^10.2.0
+  rxdart: ^0.27.7
+  flute_music_player: ^0.0.6
+  shared_preferences: ^2.0.20
+  sliding_up_panel: ^2.0.0+1
 
 dev_dependencies:
   flutter_test:
